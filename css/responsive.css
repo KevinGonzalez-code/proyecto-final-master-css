@@ -1,0 +1,385 @@
+@media (max-width:1250px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    #banner h1{
+        width: 100%;
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .cards{
+        width: 16%;
+        margin: 1.4%;
+    }
+
+    .cards p{
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+        width: 90%;
+    }
+
+    #articles{
+        width: 62%;
+    }
+
+    #articles article{
+        width: 97%;
+    }
+
+    #footer .wrap >div{
+        width: 23%;
+    }
+
+    #footer #browsers img{
+        width: 15%;
+    }
+    #footer h5{
+        margin: 17px auto;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1080px){
+    .cards .category{
+        font-size: 17px;
+    }
+
+    .cards .description{
+        font-size: 14px;
+    }
+
+    #articles{
+        width: 60%;
+    }
+    #footer h5{
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 960px){
+    #articles{
+        width: 59%;
+    }
+
+    #footer img {
+        margin-bottom: 15px;
+        width: 200px;
+    }
+
+    #footer h5{
+        font-size: 22px;
+    }
+
+    @media (max-width: 938px){
+        #section{
+            width: 25%;
+        }
+        
+        #articles{
+            width: 65%;
+        }
+        
+        #section input[type="text"]{
+            width: 75%;
+        }
+
+    }
+    #login input[type="email"],
+    #login input[type="password"]{
+        width: 74%;        
+    }
+    
+    .aside-box{
+        width: 95%;
+        
+    }
+
+    #login input[type="submit"],
+    #login input[type="button"],
+    #login input[type="reset"],
+    #login button {
+        width: 35%;             
+    }
+
+    #login a{
+        font-size: 13px;        
+    }
+
+    #banner h1{
+        width: 100%;
+        font-size: 29px;      
+        margin: 33px auto;   
+    }
+
+   @media (max-width: 860px){
+    .cards .category {
+        font-size: 15px;
+    }
+
+    #banner h1 {
+        width: 100%;
+        font-size: 26px;
+        margin: 36px auto;
+    }
+
+    #articles .data {
+        font-size: 11.5px;        
+    }
+
+    .cards{
+        height: auto;
+    }
+
+    .cards .description{
+        display: none;        
+    }
+
+    @media (max-width: 780px){
+        #banner h1 {
+        width: 100%;
+        font-size: 42px;
+        margin: 23px auto;
+    }
+
+    #banner{
+        height: 144px;
+    }
+
+    aside h3 {
+        font-size: 21px;
+        padding-left: 15px;
+    }
+
+    #footer h5 {
+        font-size: 16px;
+    }
+
+    @media (max-width: 741px){
+        #header{
+            width: 100%;
+            height: 135px;
+        }
+
+        #menu{
+            clear: both;
+            float: none;
+            width: 77%;
+            margin: 0px auto;
+
+        }
+
+        #menu ul li a {
+            font-size: 30px;
+    }
+
+    .cards .category {
+        font-size: 13px;
+    }
+
+    #articles article h4 {
+        font-size: 20px;            
+    }
+
+    #articles .data {
+        font-size: 9.5px;
+    }
+
+    @media (max-width: 725px){
+        #logo{
+            
+            margin: 0px auto;
+            float: none;
+        }
+
+        #menu{
+            max-width: 600px;
+        }
+
+        #menu ul li a {
+            font-size: 25px;
+        }
+
+        #articles article h4 {
+            font-size: 20px;            
+        }
+
+        #articles .data {
+            font-size: 9.5px;
+        }
+    }
+
+        @media (max-width: 690px){
+            aside h3 {
+                font-size: 19px;
+                padding-left: 14px;
+            }
+
+            #login input[type="submit"],
+            #login input[type="button"],
+            #login input[type="reset"],
+            #login button {
+                float: left;                            
+                width: 108px;
+                height: 35px;
+                margin-bottom: 9px;
+                padding-bottom: -44px;
+                font-size: 16px;
+            }
+            
+            .aside-box {
+                height: 286px
+            }
+
+        }
+        #section input[type="button"],
+        #section input[type="text"] {
+            padding-left: 3px;
+        }
+
+            #login a:first-child {
+                
+                padding-top: 70px;
+            }
+            #login a {
+                font-size: 12px;
+                
+            }
+
+           
+
+            #footer .wrap >div {
+                width: 29%;
+                margin: 13px;
+            }
+
+        @media (max-width:660px){
+
+            #header{
+                height: 130px;
+                padding-top: 2px;
+            }
+
+            .wrap {
+                margin-right: 32px;
+            }
+
+            #logo {
+                margin: 10px auto;
+            }
+            #section{
+                width: 100%;
+                float: none;
+                min-height: auto;
+            }
+
+            #articles{
+                width: 100%;
+                min-height: auto;
+            }
+            
+            #section input[type="button"]{
+                width: 23%;
+                
+            }
+
+            #login input[type="submit"],
+            #login input[type="button"],
+            #login input[type="reset"],
+            #login button {
+                float: none;
+                width: 145px;
+                margin: 27px auto;
+                margin-left: 40px;
+                margin-left: 87px;
+                margin-bottom: 20px;
+                font-size: 18px;                
+            }
+
+            #login input[type="email"],
+            #login input[type="password"] {
+                width: 91%;
+            }
+
+            #login a {
+                font-size: 14px;
+                margin-top: 5px;
+            }
+
+            #footer .wrap >div {
+                width: 30%;
+                margin: 8px;
+            }
+
+            #footer{
+                height: auto;
+                padding-bottom: 40px;
+            }
+
+            #footer .wrap > div{
+                width: 100%;
+                margin: 0px auto;
+            }
+
+            #footer h5{
+                font-size: 25px;
+                margin-top: 15px;
+            }
+        }
+    @media (max-width:657px){
+        #menu {
+            width: 100%;
+            padding-bottom: 15px;         
+        }
+
+        #menu ul li {
+            display: block;
+            float: left;
+            margin-left: 6%;
+            text-align: center;
+        }
+
+        #banner h1{
+            font-size: 33px;
+            margin: 37px auto;
+        }
+
+        .cards .icon {
+            font-size: 43px;            
+        }
+
+        .cards .category {
+            font-size: 15px;
+        }
+
+        #login input[type="submit"], #login input[type="button"], #login input[type="reset"], #login button {
+            
+            margin: 21px auto;
+            margin-left: 40px;
+            margin-left: 49px;
+            margin-bottom: 20px;
+            
+        }
+
+        #login a {
+            font-size: 18px;
+            margin-top: 9px;
+        }
+
+        #section {
+           margin: 2px;
+           margin-top: 15px;
+        }
+        
+        
+        #section input[type="text"] {
+            width: 70%;
+            margin: 0px;
+            padding: 0px;
+            padding-left: 0px;
+        }
+    }
+     
